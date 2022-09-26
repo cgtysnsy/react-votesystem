@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.imgmini {
+  width: 50px;
+}
+.teamimg {
+  width: 100px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.strap-card {
+  border: 1px solid black;
+  width: 150px;
+  padding-top: 1rem;
+}
